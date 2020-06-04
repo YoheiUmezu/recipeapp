@@ -1,4 +1,7 @@
 {
     "python.pythonPath": "venv/bin/python",
-    "python.autoComplete.extraPaths": ["/Users/umedzuyouhei/Desktop/udemy course corona/recipe-python/recipeapp/app"]
+    "python.autoComplete.extraPaths": ["/Users/umedzuyouhei/Desktop/udemy course corona/recipe-python/recipeapp/app/"],
+    "python.analysis.disabled": [
+        "unresolved-import"
+    ]
 }
